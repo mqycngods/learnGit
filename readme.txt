@@ -2,4 +2,4 @@ cat readme.txt
 git is a version control system
 git is free software
 git has a mutable index called stage
-是的是的
+creating a new branch is quick &simple;
